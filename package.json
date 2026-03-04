@@ -1,0 +1,14 @@
+{
+  "name": "xiaodou-ai",
+  "version": "1.0.0",
+  "description": "小豆AI - 你的智能助手",
+  "main": "index.js",
+  "keywords": ["ai", "assistant", "image-analysis", "chatbot"],
+  "author": "小豆AI",
+  "license": "MIT",
+  "homepage": "https://github.com/Simons-holo/xiaodou-ai",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Simons-holo/xiaodou-ai"
+  }
+}
